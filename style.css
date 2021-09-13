@@ -1,0 +1,105 @@
+body{
+  background-image:url(immon.jpg);
+ background-repeat: no-repeat;
+  background-position: 50% 20%;
+  color: black;
+
+
+}
+
+.Contaneir{
+ margin: auto;
+ width: 1000px;
+
+}
+
+header{
+  text-align: center;
+}
+
+.table1 {
+background: rgba(255,255,255,0.5);
+color: black;
+display: flex;
+display: inline-block;
+background-color: black;
+margin-left: 1vw;
+margin-right: 1vw;
+margin-bottom: 10vh;
+margin-top: 5vh;
+box-shadow: 10px 10px 10px rgba(114, 114, 113, 0.5);
+border-radius: 15px;
+opacity: 0.8;
+}
+
+
+.giallo{
+  text-align: center;
+  margin-right: 35vw;
+  padding: 10px;
+  background-color: orange;
+  border-radius: 50px;
+
+}
+
+.verde{
+  text-align: center;
+  margin-right: 30vw;
+  padding: 10px;
+  background-color: green;
+  border-radius: 50px;
+}
+
+.rosso{
+  text-align: center;
+  margin-right: 40vw;
+  padding: 10px;
+  background-color: red;
+  border-radius: 50px;
+}
+
+.Titolo{
+  color: green;
+  text-align: center;
+}
+
+hr{
+  size: 20;
+  color: blue;
+}
+
+nav{
+  text-align: center;
+  padding: 10px;
+  background-color: green;
+  border: 50%
+}
+
+main{
+  text-align: left;
+}
+
+.Gino22{
+  color: white;
+}
+
+.Y{
+  color: orange;
+  font-size: 150%;
+  background-color: black;
+}
+.G{
+  color: green;
+  font-size: 150%;
+  background-color: black;
+}
+
+.R{
+  color: red;
+  font-size: 150%;
+  background-color: black;
+}
+
+.gg{
+  color: white;
+}
